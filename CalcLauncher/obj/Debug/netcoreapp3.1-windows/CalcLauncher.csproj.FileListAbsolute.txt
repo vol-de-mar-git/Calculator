@@ -1,0 +1,62 @@
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.csproj.AssemblyReference.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\App.g.cs
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher_MarkupCompile.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher_MarkupCompile.lref
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.exe
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.deps.json
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.runtimeconfig.json
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.runtimeconfig.dev.json
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.pdb
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\Google.Protobuf.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\Grpc.Core.Api.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\Grpc.Net.Client.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\Grpc.Net.Common.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.Grpc.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.Grpc.pdb
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.g.resources
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.AssemblyInfoInputs.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.AssemblyInfo.cs
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.csproj.CopyComplete
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.pdb
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.genruntimeconfig.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\Controls\Keyboard.g.cs
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\Views\CalculatorView.g.cs
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\Controls\Keyboard.baml
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\Views\CalculatorView.baml
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.exe
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.deps.json
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.runtimeconfig.json
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.runtimeconfig.dev.json
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.dll
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.pdb
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\Google.Protobuf.dll
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\Grpc.Core.Api.dll
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\Grpc.Net.Client.dll
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\Grpc.Net.Common.dll
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.Grpc.dll
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\bin\Debug\netcoreapp3.1-windows\CalcLauncher.Grpc.pdb
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.csproj.AssemblyReference.cache
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\Controls\Keyboard.g.cs
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\Views\CalculatorView.g.cs
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\App.g.cs
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher_MarkupCompile.cache
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher_MarkupCompile.lref
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\Controls\Keyboard.baml
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\Views\CalculatorView.baml
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.g.resources
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.AssemblyInfoInputs.cache
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.AssemblyInfo.cs
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.csproj.CoreCompileInputs.cache
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.csproj.CopyComplete
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.dll
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.pdb
+C:\Users\vladu\Desktop\Calculator\CalcLauncher\obj\Debug\netcoreapp3.1-windows\CalcLauncher.genruntimeconfig.cache

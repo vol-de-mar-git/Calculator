@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "CalcHost";
+
+package greet;
+
+
+service Greeter {
+  rpc Calculate (CalculateRequest) returns (CalculateResponse);
+}
+
+message CalculateRequest {
+  string expr = 1;
+}
+
+message CalculateResponse{
+    string response = 1;
+}
+

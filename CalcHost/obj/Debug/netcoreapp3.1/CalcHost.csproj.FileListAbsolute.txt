@@ -1,0 +1,60 @@
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcHost.exe
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcHost.deps.json
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcHost.runtimeconfig.json
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcHost.runtimeconfig.dev.json
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcHost.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcHost.pdb
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.csproj.AssemblyReference.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.AssemblyInfoInputs.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.AssemblyInfo.cs
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.csproj.CoreCompileInputs.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\staticwebassets\CalcHost.StaticWebAssets.Manifest.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\staticwebassets\CalcHost.StaticWebAssets.xml
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalcHost.styles.css
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.RazorTargetAssemblyInfo.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.csproj.CopyComplete
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.pdb
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.genruntimeconfig.cache
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcHost.exe
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcHost.deps.json
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcHost.runtimeconfig.json
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcHost.runtimeconfig.dev.json
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcHost.dll
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcHost.pdb
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.csproj.AssemblyReference.cache
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.AssemblyInfoInputs.cache
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.AssemblyInfo.cs
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.csproj.CoreCompileInputs.cache
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\staticwebassets\CalcHost.StaticWebAssets.Manifest.cache
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\staticwebassets\CalcHost.StaticWebAssets.xml
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalcHost.styles.css
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.RazorTargetAssemblyInfo.cache
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.csproj.CopyComplete
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.dll
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.pdb
+C:\Users\vladu\Desktop\Calculator\CalcHost\obj\Debug\netcoreapp3.1\CalcHost.genruntimeconfig.cache
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcLauncher.Grpc.dll
+C:\Users\vladu\Desktop\Calculator\CalcHost\bin\Debug\netcoreapp3.1\CalcLauncher.Grpc.pdb

@@ -1,0 +1,20 @@
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher.Grpc\bin\Debug\netcoreapp3.1\CalcLauncher.Grpc.deps.json
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher.Grpc\bin\Debug\netcoreapp3.1\CalcLauncher.Grpc.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher.Grpc\bin\Debug\netcoreapp3.1\CalcLauncher.Grpc.pdb
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.csproj.AssemblyReference.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.AssemblyInfoInputs.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.AssemblyInfo.cs
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.csproj.CoreCompileInputs.cache
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.dll
+C:\Users\Voldemar Workplace\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.pdb
+C:\Users\vladu\Desktop\Calculator\CalcLauncher.Grpc\bin\Debug\netcoreapp3.1\CalcLauncher.Grpc.deps.json
+C:\Users\vladu\Desktop\Calculator\CalcLauncher.Grpc\bin\Debug\netcoreapp3.1\CalcLauncher.Grpc.dll
+C:\Users\vladu\Desktop\Calculator\CalcLauncher.Grpc\bin\Debug\netcoreapp3.1\CalcLauncher.Grpc.pdb
+C:\Users\vladu\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.csproj.AssemblyReference.cache
+C:\Users\vladu\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladu\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.AssemblyInfoInputs.cache
+C:\Users\vladu\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.AssemblyInfo.cs
+C:\Users\vladu\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.csproj.CoreCompileInputs.cache
+C:\Users\vladu\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.dll
+C:\Users\vladu\Desktop\Calculator\CalcLauncher.Grpc\obj\Debug\netcoreapp3.1\CalcLauncher.Grpc.pdb
